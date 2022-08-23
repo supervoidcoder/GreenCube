@@ -1,2 +1,2 @@
 # GreenCube
-The world of Cubes has been born.
+Welcome to Green Cube! This is going to be an educational website that is still in progress.
