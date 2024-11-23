@@ -1,2 +1,2 @@
 # GreenCube
-Welcome to Green Cube! This is going to be an educational website that is still in progress.
+Welcome to Green Cube! From education, to tools and entertainment, it's all here.
