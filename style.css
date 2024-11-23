@@ -33,8 +33,9 @@
            color: black;
      }
      .selected{
-         background-color: lime;
-           color: white;
+        background-color: lime;
+        color: white;
+        font-weight: bold;
              
      }
     
